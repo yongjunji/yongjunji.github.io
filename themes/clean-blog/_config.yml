@@ -1,0 +1,47 @@
+# Header
+menu:
+  主页: /
+  归档: /archives
+  标签: /tags
+  目录: /categories
+  关于: /about
+  Github:
+    url: https://github.com/yongjunji/yongjunji.github.io
+    icon: github
+
+# Title on top left of menu. Leave empty to use main blog title
+menu_title: 冀拥军的个人博客
+
+# URL of the Home page image
+index_cover: img/home-bg.jpg
+
+# Default post title
+default_post_title: 未命名
+
+# Comments. Choose one by filling up the information
+comments:
+  # Disqus comments
+  disqus_shortname:
+  # Facebook comments
+  facebook:
+    appid:
+    comment_count: 5
+    comment_colorscheme: light
+
+# Google Analytics Tracking ID
+google_analytics:
+
+# Addthis ID
+addthis:
+
+# 浏览器地址栏小图标，可自定义更改
+favicon: /img/favicon.ico
+
+# Social Accounts
+# twitter_url:
+# twitter_handle:
+# facebook_url:
+github_url: https://github.com/yongjunji
+# gitlab_url:
+#linkedin_url:
+mailto: jiyongjun09@163.com
